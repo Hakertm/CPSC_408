@@ -1,0 +1,5 @@
+rideID,driverID,riderID,pickupLoc,dropoffLoc,driverRating
+1,3,2,Chicago,Toronto,5
+2,5,1,Orange,Irvine,4.2
+3,4,3,Atlantis,Neptune,5
+4,2,5,Las Vegas,Antarctica,1.5
